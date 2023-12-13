@@ -1,0 +1,33 @@
+
+h1 {
+    padding-top: 20px;
+}
+
+h1, p, a {
+    margin-left: 80px;
+    font-family: 'Inconsolata', monospace;
+}
+
+
+p {
+    display: inline-block;
+    width: 450px;
+    margin-right: 100px;
+}
+
+img {
+    display: block;
+    float: right;
+    height: 120px;
+    width: 90px;
+    margin-bottom: 30px;
+}
+
+div {
+    background-color: rgba(83,236,179,0.8);
+    height: 240px;
+}
+
+a {
+    margin-top: 10px;
+}
